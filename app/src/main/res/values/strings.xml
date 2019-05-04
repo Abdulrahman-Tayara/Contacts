@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Telephone Guide</string>
+    <string name="add_item">Add New Item</string>
+    <string name="show_items">Show All Items</string>
+    <string name="search">Search</string>
+    <string name="edit_item">Edit</string>
+    <string name="delete_item">Delete</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="telephone_number">Telephone Number</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="birthday">Birthday</string>
+    <string name="address">Address</string>
+    <string name="no_contacts">There are no contacts</string>
+    <string name="enter_name_or_number">Enter a name or a number</string>
+    <string name="contact_saved">Contact Saved</string>
+    <string name="add_new_contact">Add New Contact</string>
+    <string name="unknown">Unknown</string>
+    <string name="alert_delete_contact">This contact will be deleted</string>
+    <string name="edit_contact">Edit contact</string>
+    <string name="permission_denied">Permission Denied</string>
+    <string name="inserted_excel">Data inserted in excel file</string>
+</resources>
