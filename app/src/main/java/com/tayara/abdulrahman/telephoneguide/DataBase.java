@@ -15,6 +15,9 @@ public class DataBase extends SQLiteOpenHelper {
         super(context, DATABASE_NAME, null, 1);
     }
 
+
+
+    
     public static DataBase getInstance() {
         if (dataBaseSingleton == null) {
             dataBaseSingleton = new DataBase(mContext);
